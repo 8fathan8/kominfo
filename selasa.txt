@@ -1,4 +1,8 @@
 1. pelajari github
 3. pelajari ...
+<<<<<<< HEAD
 5. lima+1
 6. 1234
+=======
+5. 123
+>>>>>>> 426a9ccb9823e1e48026a31d9f37e7564f24d5a6
