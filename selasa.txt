@@ -1,4 +1,4 @@
 1. pelajari github
-2. pelajari laravel
 3. pelajari ...
-5. 123
+5. lima+1
+6.
