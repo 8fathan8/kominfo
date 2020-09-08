@@ -8,3 +8,5 @@ ingin lihat history
 unutk pull dari branch 
 1. git fetch 
 2. git pull
+
+pelajari merge local
