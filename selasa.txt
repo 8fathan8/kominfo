@@ -1,1 +1,2 @@
 1. pelajari github
+2. pelajari laravel
